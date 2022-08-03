@@ -32,6 +32,7 @@
 // @match        https://*.gruntwork.io/*
 // @match        https://stackoverflow.com/*
 // @match        https://makefiletutorial.com/*
+// @match        https://*.github.com/*
 // ==/UserScript==
 
 (function () {
